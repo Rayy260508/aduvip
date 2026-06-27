@@ -30,9 +30,11 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
+        "Phản ứng trung hòa acid là quá trình trong đó acid phản ứng với bazơ (hoặc kiềm) tạo thành muối và nước. Mục đích là triệt tiêu tính ăn mòn và đưa dung dịch về trạng thái trung tính",
         "nhạc wxrdie mid vl",
         "ngứa dái quá",
-        "chúng mày ăn cứt"
+        "Hạt nhân nguyên tử nằm ở trung tâm nguyên tử, gồm các proton +e và neutron (không mang điện), chiếm gần toàn bộ khối lượng nguyên tử",
+        "chúng mày ăn cứt",
       ]
     },
     "chat-log": true,
